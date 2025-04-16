@@ -10,7 +10,7 @@ Para a elaboração do site foi usado html e framework css da w3School.
 # página Sobre
 ![image](https://github.com/user-attachments/assets/32316c9b-2af1-4ac5-9970-db90b45610e7)
 
-#página Grade Curricular
+# página Grade Curricular
 ![image](https://github.com/user-attachments/assets/004b6593-3245-4714-8d7a-719c904d55d2)
 
 # tecnologias utilizadas
